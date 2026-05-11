@@ -2,7 +2,7 @@
 
 A premium, production-quality SaaS dashboard built with the latest React ecosystem.
 
-![alt text](image.png)
+![alt text](/public/image.png)
 
 ## 🚀 Features
 
