@@ -2,7 +2,7 @@
 
 A premium, production-quality SaaS dashboard built with the latest React ecosystem.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600.png?text=Neurolinkx+Dashboard+Preview)
+![alt text](image.png)
 
 ## 🚀 Features
 
