@@ -88,12 +88,12 @@ export default function SettingsPage() {
           <TabsTrigger value="team" className="flex items-center gap-2">
             <Users className="h-4 w-4" /> Team
           </TabsTrigger>
-          <TabsTrigger value="notifications" className="flex items-center gap-2">
+          {/* <TabsTrigger value="notifications" className="flex items-center gap-2">
             <Bell className="h-4 w-4" /> Notifications
           </TabsTrigger>
           <TabsTrigger value="security" className="flex items-center gap-2">
             <Shield className="h-4 w-4" /> Security
-          </TabsTrigger>
+          </TabsTrigger> */}
         </TabsList>
 
         <TabsContent value="profile" className="space-y-4">
